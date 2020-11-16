@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1588263010 source:c:\ega\movierev\main.cpp
+	<iostream>
+	<stdio.h>
+	"movie.h"
+	"review.h"
+	"relasi.h"
+
+1588262931 c:\ega\movierev\movie.h
+	<iostream>
+
+1588052890 c:\ega\movierev\review.h
+	<iostream>
+	"movie.h"
+
+1588262931 c:\ega\movierev\relasi.h
+	"movie.h"
+	"review.h"
+	<iostream>
+
+1588262931 source:c:\ega\movierev\movie.cpp
+	"movie.h"
+	<iostream>
+
+1588263227 source:c:\ega\movierev\relasi.cpp
+	"relasi.h"
+
+1588052890 source:c:\ega\movierev\review.cpp
+	"review.h"
+	<iostream>
+
